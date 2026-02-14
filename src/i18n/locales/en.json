@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Task Manager",
+    "subtitle": "Organize your day, achieve your goals"
+  },
+  "form": {
+    "title": "Title",
+    "titlePlaceholder": "What needs to be done?",
+    "description": "Description",
+    "descriptionPlaceholder": "Add details (optional)",
+    "addTask": "Add Task",
+    "titleRequired": "Task title is required",
+    "titleMinLength": "Title must be at least 2 characters"
+  },
+  "task": {
+    "createdAt": "Created",
+    "delete": "Delete",
+    "markComplete": "Mark as complete",
+    "markIncomplete": "Mark as incomplete",
+    "noTasks": "No tasks yet",
+    "noTasksDesc": "Add your first task above to get started",
+    "noCompleted": "No completed tasks",
+    "noCompletedDesc": "Complete a task to see it here",
+    "noActive": "No active tasks",
+    "noActiveDesc": "All caught up! Great job"
+  },
+  "filter": {
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed"
+  },
+  "stats": {
+    "total": "Total",
+    "active": "Active",
+    "completed": "Completed"
+  },
+  "confirm": {
+    "title": "Delete Task",
+    "message": "Are you sure you want to delete this task? This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "toast": {
+    "taskAdded": "Task added successfully",
+    "taskDeleted": "Task deleted",
+    "taskCompleted": "Task marked as complete",
+    "taskIncomplete": "Task marked as active"
+  },
+  "language": "Language",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark"
+}

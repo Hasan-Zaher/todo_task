@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "مدير المهام",
+    "subtitle": "نظّم يومك، حقّق أهدافك"
+  },
+  "form": {
+    "title": "العنوان",
+    "titlePlaceholder": "ما الذي يجب إنجازه؟",
+    "description": "الوصف",
+    "descriptionPlaceholder": "أضف تفاصيل (اختياري)",
+    "addTask": "إضافة مهمة",
+    "titleRequired": "عنوان المهمة مطلوب",
+    "titleMinLength": "يجب أن يكون العنوان حرفين على الأقل"
+  },
+  "task": {
+    "createdAt": "تم الإنشاء",
+    "delete": "حذف",
+    "markComplete": "تحديد كمكتملة",
+    "markIncomplete": "تحديد كغير مكتملة",
+    "noTasks": "لا توجد مهام بعد",
+    "noTasksDesc": "أضف مهمتك الأولى أعلاه للبدء",
+    "noCompleted": "لا توجد مهام مكتملة",
+    "noCompletedDesc": "أكمل مهمة لرؤيتها هنا",
+    "noActive": "لا توجد مهام نشطة",
+    "noActiveDesc": "أحسنت! لقد أنجزت كل شيء"
+  },
+  "filter": {
+    "all": "الكل",
+    "active": "النشطة",
+    "completed": "المكتملة"
+  },
+  "stats": {
+    "total": "الإجمالي",
+    "active": "النشطة",
+    "completed": "المكتملة"
+  },
+  "confirm": {
+    "title": "حذف المهمة",
+    "message": "هل أنت متأكد من حذف هذه المهمة؟ لا يمكن التراجع عن هذا الإجراء.",
+    "cancel": "إلغاء",
+    "delete": "حذف"
+  },
+  "toast": {
+    "taskAdded": "تمت إضافة المهمة بنجاح",
+    "taskDeleted": "تم حذف المهمة",
+    "taskCompleted": "تم تحديد المهمة كمكتملة",
+    "taskIncomplete": "تم تحديد المهمة كنشطة"
+  },
+  "language": "اللغة",
+  "theme": "المظهر",
+  "light": "فاتح",
+  "dark": "داكن"
+}
